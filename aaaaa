@@ -73,7 +73,7 @@ request(ok)
 
 
 -----------------------------------------------------------
-if  getgenv().Key == "GAY" and hwid == "D9B4B86C6510DA900918E4BC225A85C01128" 
+if  getgenv().Key == "GAY" and hwid == "D9B4B86C6510DA900918E4ASDASDSDF" 
 or
 getgenv().Key == "" and hwid == "" 
 
